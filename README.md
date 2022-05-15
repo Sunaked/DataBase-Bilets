@@ -3,11 +3,11 @@
 Answers stored in "Exam" folder.
 
 To make mind map using makrdown - Use "#", the more "#" the lowest level section would be.
-
-#### Билеты Кирилл:
-1. ❌
-2. ❌
-3. ❌
-```c
-// ✅
 ```
+✅ - выполнен
+❌ - не выполнен
+```
+#### Билеты Кирилл:
+5. ❌
+6. ❌
+7. ❌
