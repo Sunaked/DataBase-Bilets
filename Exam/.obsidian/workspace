@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "730e04c6caf3d180",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce38c7870a411e89",
+        "type": "split",
+        "children": [
+          {
+            "id": "6607d14d2ae2df93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bilets Answers.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "df110338a4200f53",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "985d8f915313c245",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ae0e8ca99baa3cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7acd394fc19ff7ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9e50d800d3bf967",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f270b1c9fbb9a964",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0567a19307b95c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbcb4904f7c25901",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bilets Answers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6607d14d2ae2df93",
+  "lastOpenFiles": [
+    "Bilets Answers.md"
+  ]
+}
