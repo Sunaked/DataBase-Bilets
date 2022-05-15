@@ -11,3 +11,8 @@ To make mind map using makrdown - Use "#", the more "#" the lowest level section
 5. ❌
 6. ❌
 7. ❌
+
+#### Билеты Гоша:
+8. ✅
+9. ✅
+10. ✅
