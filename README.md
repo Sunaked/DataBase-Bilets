@@ -11,3 +11,12 @@ To make mind map using makrdown - Use "#", the more "#" the lowest level section
 ```c
 // ✅
 ```
+
+#### Билеты Саша:
+1. ❌
+2. ❌
+3. ❌
+4. ❌
+```c
+// ✅
+```
