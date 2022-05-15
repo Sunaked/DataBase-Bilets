@@ -8,6 +8,6 @@ To make mind map using makrdown - Use "#", the more "#" the lowest level section
 ❌ - не выполнен
 ```
 #### Билеты Кирилл:
-5.❌
-6.❌
-7.❌
+1.❌
+2.❌
+3.❌
