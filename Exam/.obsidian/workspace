@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6607d14d2ae2df93",
+        "id": "7494ed3a456b2811",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,8 +86,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6607d14d2ae2df93",
+  "active": "7494ed3a456b2811",
   "lastOpenFiles": [
+    "Bilets/5.md",
+    "Bilets/5.pdf",
+    "Pasted image 20220516104249.png",
     "Bilets/5.md",
     "Bilets/5.md.md",
     "Bilets Answers.md"
