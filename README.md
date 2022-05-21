@@ -3,6 +3,11 @@
 Answers stored in "Exam" folder.
 
 To make mind map using makrdown - Use "#", the more "#" the lowest level section would be.
+#### Билеты Саша:
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
 #### Билеты Кирилл:
 - [X] 5
 - [ ] 6
@@ -12,13 +17,6 @@ To make mind map using makrdown - Use "#", the more "#" the lowest level section
 - [X] 8
 - [X] 9
 - [X] 10
-
-
-#### Билеты Саша:
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
 #### Билеты Илья:
 - [ ] 11
 - [ ] 12
