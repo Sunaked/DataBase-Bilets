@@ -4,7 +4,7 @@ Answers stored in "Exam" folder.
 
 To make mind map using makrdown - Use "#", the more "#" the lowest level section would be.
 #### Билеты Саша:
-- [ ] 1
+- [x] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
