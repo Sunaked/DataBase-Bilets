@@ -11,7 +11,7 @@ To make mind map using makrdown - Use "#", the more "#" the lowest level section
 #### Билеты Кирилл:
 - [X] 5
 - [X] 6
-- [ ] 7
+- [X] 7
 
 #### Билеты Гоша:
 - [X] 8
