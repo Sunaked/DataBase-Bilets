@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7494ed3a456b2811",
+        "id": "c367501dab37eb1a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bilets/5.md",
-            "mode": "preview"
+            "file": "Bilets/6.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bilets/5.md",
+                "file": "Bilets/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,12 +86,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7494ed3a456b2811",
+  "active": "c367501dab37eb1a",
   "lastOpenFiles": [
+    "Bilets/6.md",
     "Bilets/5.md",
+    "Bilets Answers.md",
     "Bilets/5.pdf",
     "Pasted image 20220516104249.png",
-    "Bilets/5.md.md",
-    "Bilets Answers.md"
+    "Bilets/5.md.md"
   ]
 }
